@@ -1,8 +1,6 @@
 
 # Requirements
     *Run 3rd Party API
-    *Set correct login info for postgresql in "main/resources/application.properties"
-
 # Couple of notes on decisions made in this project:
 ## Given user stories:
     1.As a User I want to create a payment so that I retrieve an approval code.
